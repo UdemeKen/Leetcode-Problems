@@ -1,12 +1,13 @@
 package org.udemekendrick;
 
 import org.udemekendrick.duplicateNumbers.DuplicateNumbers;
+import org.udemekendrick.maxProfit.MaxProfit;
 
 public class Main {
     public static void main(String[] args) {
-        int[] nums = {1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5,};
-        DuplicateNumbers dn = new DuplicateNumbers();
-        int answer = dn.removeDuplicates(nums);
-        System.out.println(answer);
+        int[] prices = {6, 2, 4, 8, 5, 3, 9};
+        MaxProfit maxProfit = new MaxProfit();
+        int profit = maxProfit.maxProfit(prices);
+        System.out.println(profit);
     }
 }
