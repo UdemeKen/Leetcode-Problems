@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f286ca40-849d-4f12-9573-c896e9813153" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/udemekendrick/containsDuplicate/ContainsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/udemekendrick/singleNumber/SingleNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/udemekendrick/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/udemekendrick/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725771768716</updated>
       <workItem from="1725771769981" duration="2867000" />
-      <workItem from="1737366358898" duration="8158000" />
+      <workItem from="1737366358898" duration="9067000" />
     </task>
     <servers />
   </component>
